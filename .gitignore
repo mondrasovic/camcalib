@@ -1,3 +1,15 @@
+*.npy
+frames
+
+.idea
+.vscode
+
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
